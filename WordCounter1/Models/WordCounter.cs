@@ -2,16 +2,13 @@ namespace WordCounter
 {
     public class WordCounterClass
     {
-        public bool IsUserInputAString(string userWord)
+        public bool IsUserInputAString(string Word)
         {
-            if (userWord == "q")
+            if (Word == "q")
             {
                 return true;
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
 
         public bool DoesWordAndSentenceHaveSingleMatch(string word, string sentence)
@@ -20,10 +17,7 @@ namespace WordCounter
             {
                 return true;
             }
-            else
-            {
-                return false;
-            }
+            return false;
         }
 
         public bool DoesWordAndSentenceHaveDoubleMatch(string word, string sentence)
@@ -34,10 +28,6 @@ namespace WordCounter
                 if (word == index)
                 {
                     return true;
-                }
-                else
-                {
-                    return false;
                 }   
             }
             return false;    
@@ -52,12 +42,22 @@ namespace WordCounter
                 {
                     return true;
                 }
-                else
-                {
-                    return false;
-                }
             }
             return false;
+        }
+
+        public int HowManyMatchesDoYouHave(string word, string sentence)
+        {
+            int matchScore = 0;
+            string[] sentenceSplit = sentence.Split(' ');
+            foreach(var index in sentenceSplit)
+            {
+                if (word == index)
+                {
+                    matchScore++;
+                }
+            }
+            return matchScore;   
         }  
     }
 }

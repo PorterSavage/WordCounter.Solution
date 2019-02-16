@@ -1,0 +1,17 @@
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.Tests.deps.json
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.Tests.runtimeconfig.json
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.Tests.runtimeconfig.dev.json
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.Tests.dll
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.Tests.pdb
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.dll
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\bin\Debug\netcoreapp1.1\WordCounter1.pdb
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.csprojAssemblyReference.cache
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.AssemblyInfoInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.csproj.CopyComplete
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.dll
+C:\Users\thepo\onedrive\desktop\projects\WordCounter1.Solution\WordCounter1.Tests\obj\Debug\netcoreapp1.1\WordCounter1.Tests.pdb
