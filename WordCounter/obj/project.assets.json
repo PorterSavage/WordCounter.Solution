@@ -7166,11 +7166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter1.Solution\\WordCounter1\\WordCounter1.csproj",
-      "projectName": "WordCounter1",
-      "projectPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter1.Solution\\WordCounter1\\WordCounter1.csproj",
+      "projectUniqueName": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter\\WordCounter.csproj",
+      "projectName": "WordCounter",
+      "projectPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter\\WordCounter.csproj",
       "packagesPath": "C:\\Users\\thepo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter1.Solution\\WordCounter1\\obj\\",
+      "outputPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thepo\\AppData\\Roaming\\NuGet\\NuGet.Config",
