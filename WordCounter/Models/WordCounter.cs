@@ -80,7 +80,9 @@ namespace WordCounter.Models
                     matchScore++;
                 }
             }
-            return matchScore;   
+
+            _match = matchScore;
+            return _match;   
         }  
     }
 }

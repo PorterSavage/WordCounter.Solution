@@ -1,8 +1,17 @@
 @using WordCounter.Models
 
-<h1>This is how many matches you have:</h1>
-<p>
-    @Model.word
-    @Model.sentence
-</p>
-<a href="/match/new">Click here to create a new word</a>
+@if (WordCounterClass.GetMatch() == 0)
+{
+    <p>You have not started a game yet!</p>
+}
+
+@if (WordCounterClass.GetMatch() != 0)
+{
+    <h1>This is how many matches you have:</h1>
+    <p>
+        @WordCounterClass.GetWord()<br>
+        @WordCounterClass.GetSentence()<br>
+        @WordCounterClass.GetMatch()<br>
+    </p>
+}
+<a href="/match/new">Click here to start a game</a>
