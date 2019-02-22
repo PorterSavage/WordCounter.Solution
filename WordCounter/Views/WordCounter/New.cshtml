@@ -5,6 +5,12 @@
     <body>
         <h1>Word Counter Game!</h1>
         <h2>Enter A word and A sentence!</h2>
-        <form action=""
+        <form action="/match" method="post">
+            <label for="word">Enter A word:</label>
+            <input name="word" id="word" type="text">
+            <label for="sentence">Enter A sentence:</label>
+            <input name="sentence" id="sentence" type="text">
+            <button type="submit">Submit</button>
+        </form>
     </body>
 </html>
