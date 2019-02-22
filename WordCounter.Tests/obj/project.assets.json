@@ -10852,11 +10852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\thepo\\OneDrive\\Desktop\\Projects\\WordCounter.Solution\\WordCounter.Tests\\WordCounter.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter.Tests\\WordCounter.Tests.csproj",
       "projectName": "WordCounter.Tests",
-      "projectPath": "c:\\Users\\thepo\\OneDrive\\Desktop\\Projects\\WordCounter.Solution\\WordCounter.Tests\\WordCounter.Tests.csproj",
+      "projectPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter.Tests\\WordCounter.Tests.csproj",
       "packagesPath": "C:\\Users\\thepo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\thepo\\OneDrive\\Desktop\\Projects\\WordCounter.Solution\\WordCounter.Tests\\obj\\",
+      "outputPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thepo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10873,8 +10873,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "c:\\Users\\thepo\\OneDrive\\Desktop\\Projects\\WordCounter.Solution\\WordCounter\\WordCounter.csproj": {
-              "projectPath": "c:\\Users\\thepo\\OneDrive\\Desktop\\Projects\\WordCounter.Solution\\WordCounter\\WordCounter.csproj"
+            "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter\\WordCounter.csproj": {
+              "projectPath": "C:\\Users\\thepo\\onedrive\\desktop\\projects\\WordCounter.Solution\\WordCounter\\WordCounter.csproj"
             }
           }
         }
