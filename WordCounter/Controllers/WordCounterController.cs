@@ -18,9 +18,12 @@ namespace WordCounter.Controllers
             return View();
         }
 
-        // [HttpPost("/match")]
-        // {
-
-        // }
+        [HttpPost("/match")]
+        public ActionResult WordCounterClass(string word, string sentence, int match)
+        {
+            WordCounterClass newCount = new WordCounterClass(word, sentence, match);
+            newCount.HowManyMatchesDoYouHave(word, sentence);
+            return RedirectToAction("Index");
+        }
     }
 }
