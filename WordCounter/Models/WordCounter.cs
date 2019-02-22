@@ -1,7 +1,30 @@
-namespace WordCounter
+using System;
+
+namespace WordCounter.Models
 {
     public class WordCounterClass
     {
+        private string _word;
+        private string _sentence;
+        private string _match;
+        public WordCounterClass(string word, string sentence, string match)
+        {
+            _word = word;
+            _sentence = sentence;
+            _match = match;
+        }
+        public string GetWord()
+        {
+            return _word;
+        }
+        public string GetSentence()
+        {
+            return _sentence;
+        }
+        public string GetMatch()
+        {
+            return _match;
+        }
         public bool IsUserInputAString(string Word)
         {
             if (Word == "q")
