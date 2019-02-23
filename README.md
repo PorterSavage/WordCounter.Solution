@@ -36,6 +36,8 @@ An application that allows the user to enter a word, then a sentace. The applica
 * Clone this repository: $ git clone repo name
 * Change into the work directory:: $ cd WordCounter.Solution
 To edit the project, open the project in your preferred text editor.
+* Navigate to WordCounter.Solution/WordCounter, type "dotnet restore" then "dotnet build" then "dotnet run"
+* Type http://localhost:5000 into your browswer once you've run the program.
 
 * To run the program, first navigate to the location of the WordCounter.cs file     then compile and execute: $ cd WordCounter/Models $ mcs WordCounter.cs; mono        WordCounter.exe;
 
