@@ -42,7 +42,7 @@ To edit the project, open the project in your preferred text editor.
 * To run the tests, use these commands: $ cd WordCounter.Tests $ dotnet test
 
 ### Known Bugs
-* No known bugs
+* no known bugs
 
 ### Languages/Libraries Used
 * C#
