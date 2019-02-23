@@ -43,6 +43,7 @@ To edit the project, open the project in your preferred text editor.
 
 ### Known Bugs
 * no known bugs
+* not suitable for capital letters
 
 ### Languages/Libraries Used
 * C#
